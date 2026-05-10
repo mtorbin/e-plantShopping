@@ -1,1 +1,1 @@
-# coding-project-template
+This is repository "e-plantShopping" for the project "Paradise Nursery". This project is a shopping application for an online plant shop that offers a variety of house plants.  A variety of house plants can be browsed and added to the shopping cart. The shopping cart lets see the total cost of all the added items and allows to adjust the number of items in the cart before checkout. 
